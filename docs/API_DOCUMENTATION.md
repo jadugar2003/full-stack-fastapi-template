@@ -1,7 +1,7 @@
 # Fastapi Full Stack Template
 
 
-> **API Documentation** | Generated on 2026-03-16 15:31:40
+> **API Documentation** | Generated on 2026-03-16 16:09:43
 
 ---
 
@@ -18,7 +18,7 @@
 * **Supported Formats:** JSON
 * **Detected Frameworks:** Unknown
 * **Total Endpoints:** 0
-* **Last Updated:** 2026-03-16 15:31:40
+* **Last Updated:** 2026-03-16 16:09:43
 
 ---
 
